@@ -1,11 +1,11 @@
 # HackintoshRyzen2700X
-OpenCore Configuration for Ryzen 7 2700X | ASUS ROG Strix B450-F
+OpenCore Configuration for Ryzen 7 2700X | ASUS ROG Strix B450-F | GIGABYTE Radeon RX 590 GAMING 8G (rev. 2.0)
 
 **OS: macOS Mojave 10.14.6**
 
 **OpenCore 0.5.7**
 
-**NOTE**
+**NOTE:**
 **The kext zip folder in this repository, as well as the config.plist file, is what worked with MY AMD system and its specifications. Those of you with a 2700X and an ASUS ROG STRIX B450-F Gaming motherboard may use my EFI folder as a guide to get pointed in the right direction; while making the appropriate changes in your kext folder/config.plist file.**
 
 **Do NOT use my folder as a reference if your system specifications are significantly different from mine.**
