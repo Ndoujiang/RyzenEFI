@@ -5,6 +5,10 @@ OpenCore Configuration for Ryzen 7 2700X | ASUS ROG Strix B450-F | GIGABYTE Rade
 
 **OpenCore 0.5.7**
 
+
+![Alt text](https://raw.githubusercontent.com/thefallen0419/HackintoshRyzen2700X/master/HPMonitor.jpg?raw=true)
+
+
 **NOTE:**
 **The kext zip folder in this repository, as well as the config.plist file, is what worked with MY AMD system and its specifications. Those of you with a 2700X and an ASUS ROG STRIX B450-F Gaming motherboard may use my EFI folder as a guide to get pointed in the right direction; while making the appropriate changes in your kext folder/config.plist file.**
 
