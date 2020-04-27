@@ -30,6 +30,8 @@ OpenCore Configuration for Ryzen 7 2700X | ASUS ROG Strix B450-F
 - GenSMBIOS: https://github.com/corpnewt/GenSMBIOS
 - Kexts archive: https://onedrive.live.com/?authkey=%21APj...
 - ProperTree: https://github.com/corpnewt/ProperTree
+- iASL (Most Recent Version): https://acpica.org/sites/acpica/files/iasl-win-20200326.zip
 
 **Guides**
 - OpenCore Desktop-Guide: https://dortania.github.io/OpenCore-Desktop-Guide/
+- Snazzy Labs Guide - https://youtu.be/l_QPLl81GrY
