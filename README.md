@@ -7,6 +7,7 @@ OpenCore Configuration for Ryzen 7 2700X | ASUS ROG Strix B450-F | GIGABYTE Rade
 
 
 ![Alt text](https://raw.githubusercontent.com/thefallen0419/HackintoshRyzen2700X/master/HPMonitor.jpg?raw=true)
+![Alt text](https://raw.githubusercontent.com/thefallen0419/HackintoshRyzen2700X/master/LenovoMonitor.jpg?raw=true)
 
 
 **NOTE:**
