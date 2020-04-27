@@ -9,9 +9,9 @@ OpenCore Configuration for Ryzen 7 2700X | ASUS ROG Strix B450-F
 
 **NOTE**
 
-**The kext zip folder in this repository, as well as the config.plist file, is what worked with MY system specifications. Those of you with a 2700X or an ASUS ROG STRIX B450-F Gaming may use my EFI folder as a guide to get pointed in the right direction; making the appropriate changes in your kext folder/config.plist file.**
+**The kext zip folder in this repository, as well as the config.plist file, is what worked with MY AMD system and its specifications. Those of you with a 2700X and an ASUS ROG STRIX B450-F Gaming motherboard may use my EFI folder as a guide to get pointed in the right direction; while making the appropriate changes in your kext folder/config.plist file.**
 
-**Do not ** 
+**Do NOT use my folder as a reference if your system specifications are significantly different from mine.**
 
 **Specifications**
 - AMD Ryzen 7 2700X @ 3.7 GHz
