@@ -3,6 +3,8 @@ OpenCore Configuration for Ryzen 7 2700X | ASUS ROG Strix B450-F
 
 **OS: macOS Mojave 10.14.6**
 
+
+
 **OpenCore 0.5.7**
 
 **Specifications**
