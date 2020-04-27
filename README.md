@@ -21,6 +21,15 @@ OpenCore Configuration for Ryzen 7 2700X | ASUS ROG Strix B450-F
 
 ![Alt text](https://raw.githubusercontent.com/thefallen0419/HackintoshRyzen2700X/master/AppStoreandInternet.png?raw=true "AppStoreandInternet")
 
+**Working**
+-	All USB ports
+-	Sleep
+-	GPU
+-	Bluetooth
+-	Audio
+-	Ethernet
+-	App Store
+-	Software Updates
 
 **Software Used**
 - OpenCore 0.5.7: https://github.com/acidanthera/OpenCorePkg/releases/tag/0.5.7
