@@ -18,8 +18,13 @@ OpenCore Configuration for Ryzen 7 2700X | ASUS ROG Strix B450-F
 - Sandisk 1 TB SSD (storage)
 
 **Software Used**
+- OpenCore 0.5.7: https://github.com/acidanthera/OpenCorePkg/releases/tag/0.5.7
+- AppleSupportPkg: https://github.com/acidanthera/AppleSupportPkg/releases/tag/2.1.6
 - gibMacOS: https://github.com/corpnewt/gibMacOS
 - SSDT Time: https://github.com/corpnewt/SSDTTime
 - GenSMBIOS: https://github.com/corpnewt/GenSMBIOS
 - Kexts archive: https://onedrive.live.com/?authkey=%21APj...
 - ProperTree: https://github.com/corpnewt/ProperTree
+
+**Guides**
+- OpenCore Desktop-Guide: https://dortania.github.io/OpenCore-Desktop-Guide/
