@@ -1,7 +1,7 @@
 # HackintoshRyzen2700X
 OpenCore Configuration for Ryzen 7 2700X | ASUS ROG Strix B450-F
 
-[b]My Hackintosh Specifications [/b]
+**My Hackintosh Specifications**
 AMD Ryzen 7 2700X @ 3.7 GHz
 ASUS ROG STRIX B450-F Gaming
 GIGABYTE Radeon RX 590 GAMING 8G (rev. 2.0)
