@@ -12,14 +12,13 @@ OpenCore Configuration for Ryzen 7 2700X | ASUS ROG Strix B450-F
 - ASUS ROG STRIX B450-F Gaming
 - GIGABYTE Radeon RX 590 GAMING 8G (rev. 2.0)
 - 16GB Crucial Ballistix Sport LT 3000 MHz DDR4
+- WiFi/Bluetooth: ASUS PCE-AC55BT B1 AC1200 
 - Intel I211 Gigabit Controller
 - Samsung SSD 970 EVO Plus 250GB NVMe - **Windows 10 Installation**
 - Kingston A400 120GB SSD - **macOS 10.14.6 Installation**
 - Sandisk 1 TB SSD (storage)
 
 ![Alt text](https://raw.githubusercontent.com/thefallen0419/HackintoshRyzen2700X/master/AMDPowerManagementGadget.png?raw=true "AMDPowerManagementGadget")
-
-![Alt text](https://raw.githubusercontent.com/thefallen0419/HackintoshRyzen2700X/master/AppStoreandInternet.png?raw=true "AppStoreandInternet")
 
 **Working**
 -	Audio
@@ -30,6 +29,12 @@ OpenCore Configuration for Ryzen 7 2700X | ASUS ROG Strix B450-F
 -	Sleep
 -	App Store
 -	Software Updates
+
+![Alt text](https://raw.githubusercontent.com/thefallen0419/HackintoshRyzen2700X/master/AppStoreandInternet.png?raw=true "AppStoreandInternet")
+
+**Not Working**
+-	iMessage
+- WiFi 
 
 **Software Used**
 - OpenCore 0.5.7: https://github.com/acidanthera/OpenCorePkg/releases/tag/0.5.7
