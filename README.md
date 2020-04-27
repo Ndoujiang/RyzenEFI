@@ -2,6 +2,7 @@
 OpenCore Configuration for Ryzen 7 2700X | ASUS ROG Strix B450-F
 
 **OS: macOS Mojave 10.14.6**
+
 **My Hackintosh Specifications**
 AMD Ryzen 7 2700X @ 3.7 GHz
 ASUS ROG STRIX B450-F Gaming
