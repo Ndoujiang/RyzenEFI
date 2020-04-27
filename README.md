@@ -14,6 +14,7 @@ OpenCore Configuration for Ryzen 7 2700X | ASUS ROG Strix B450-F | GIGABYTE Rade
 
 **Do NOT use my folder as a reference if your system specifications are significantly different from mine.**
 
+
 ![Alt text](https://raw.githubusercontent.com/thefallen0419/HackintoshRyzen2700X/master/HomeScreen.png?raw=true "HomeScreen")
 
 
@@ -28,7 +29,9 @@ OpenCore Configuration for Ryzen 7 2700X | ASUS ROG Strix B450-F | GIGABYTE Rade
 - Kingston A400 120GB SSD - **macOS 10.14.6 Installation**
 - Sandisk 1 TB SSD (storage)
 
+
 ![Alt text](https://raw.githubusercontent.com/thefallen0419/HackintoshRyzen2700X/master/AMDPowerManagementGadget.png?raw=true "AMDPowerManagementGadget")
+
 
 **Working**
 -	Audio
@@ -39,6 +42,7 @@ OpenCore Configuration for Ryzen 7 2700X | ASUS ROG Strix B450-F | GIGABYTE Rade
 -	Sleep
 -	App Store
 -	Software Updates
+
 
 ![Alt text](https://raw.githubusercontent.com/thefallen0419/HackintoshRyzen2700X/master/AppStoreandInternet.png?raw=true "AppStoreandInternet")
 
