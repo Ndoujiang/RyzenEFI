@@ -25,7 +25,7 @@ OpenCore Configuration for Ryzen 7 2700X | ASUS ROG Strix B450-F
 -	Ethernet
 -	Bluetooth
 -	USB ports
--	GPU
+-	Dual Monitors
 -	Sleep
 -	App Store
 -	Software Updates
