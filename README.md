@@ -16,3 +16,10 @@ OpenCore Configuration for Ryzen 7 2700X | ASUS ROG Strix B450-F
 - Samsung SSD 970 EVO Plus 250GB NVMe - **Windows 10 Installation**
 - Kingston A400 120GB SSD - **macOS 10.14.6 Installation**
 - Sandisk 1 TB SSD (storage)
+
+**Software Used**
+gibMacOS: https://github.com/corpnewt/gibMacOS
+SSDT Time: https://github.com/corpnewt/SSDTTime
+GenSMBIOS: https://github.com/corpnewt/GenSMBIOS
+Kexts archive: https://onedrive.live.com/?authkey=%21APj...
+ProperTree: https://github.com/corpnewt/ProperTree
