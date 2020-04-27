@@ -13,11 +13,6 @@ Samsung SSD 970 EVO Plus 250GB NVMe - [b]Windows 10 Installation[/b]
 Kingston A400 120GB SSD - [b]macOS 10.14.6 Installation[/b]
 Sandisk 1 TB SSD (storage)
 
-[b]Experience So Far[/b]
+**Experience So Far**
 
 Mojave runs perfectly well on my AMD build and so far I've had zero issues with accessing the internet, downloading apps from the App Store, using native audio , and other general usage. The only thing that isn't working at the moment is iServices, specifically iMessage, but I plan on resolving that later. 
-
-[b]Inquiries[/b]
-
-(1) Mojave is reporting my Ryzen 7 2700X as an Intel Core i5 for some reason, how would I go about changing that to the correct display?
-(2) I have a second Kingston A1400 120GB SSD, is it possible to install any version of macOS in a RAID configuration to utilize that second A400?
