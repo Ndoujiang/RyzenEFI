@@ -5,6 +5,7 @@ OpenCore Configuration for Ryzen 7 2700X | ASUS ROG Strix B450-F
 
 **OpenCore 0.5.7**
 
+![Alt text](https://raw.githubusercontent.com/thefallen0419/HackintoshRyzen2700X/master/HomeScreen.png?raw=true "HomeScreen")
 
 **Specifications**
 - AMD Ryzen 7 2700X @ 3.7 GHz
